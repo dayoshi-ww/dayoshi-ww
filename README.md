@@ -9,9 +9,7 @@
 ![Development](https://img.shields.io/badge/DEVELOPMENT-3%20YEARS-26262d?style=for-the-badge&labelColor=0c0c10)
 ![Available](https://img.shields.io/badge/FREELANCE-AVAILABLE-4e5365?style=for-the-badge&labelColor=0c0c10)
 
-### DESIGN THE EXPERIENCE. BUILD THE SYSTEM.
 
-**Graphic Designer · Python Developer · Discord & Telegram Bot Developer**
 
 </div>
 
