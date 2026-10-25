@@ -120,8 +120,8 @@
 
 <div align="center">
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/TELEGRAM-CONTACT%20ME-20232A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://t.me/pseudopussy"><img src="https://img.shields.io/badge/TELEGRAM-CONTACT%20ME-20232A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/dayoshi-ww"><img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br /><br />
 
