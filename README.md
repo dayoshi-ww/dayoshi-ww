@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ilya — Graphic Designer & Developer" width="100%" />
+<img src="./banner.svg" alt="Ilya — Graphic Designer & Developer" width="100%" />
 
 <br />
 
